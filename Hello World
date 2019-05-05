@@ -1,5 +1,6 @@
-~$ cd zsc666 .github.io
-~$ echo“Hello World”> index.html
-~$ git add --all
-~$ git commit -m“初始提交”
-~$ git push -u origin master
+~ $ git clone https://github.com/zsc666/zsc666.github.io
+~ $ cd zsc666.github.io
+~ $ echo"Hello World" > index.html
+~ $ git add --all
+~ $ git commit -m"Initial commit"
+~ $ git push -u origin master
